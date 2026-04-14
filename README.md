@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @benifm, @a360pilot, or @benyamin.fallahi.motlagh, whichever pleases you!
+- 👋 Hi, I’m @benifm or @a360pilot whichever pleases you!
 - 👀 I’m interested in programming, building, testing, debugging, wiring, and anything related to EE & CE!
 - 🌱 I’m currently learning HTML, CSS, and JS and my plans will take me through Bootstrap, React, and PHP.
 - 💞️ ~~I’m looking to collaborate on building websites.~~
